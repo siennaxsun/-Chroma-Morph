@@ -29,7 +29,7 @@ This project implements a **similarity-based agent system** where:
 ---
 
 ## 📁 Repository Structure
-/src              → Core Grasshopper and Python scripts
+/GH Scripts       → Core Grasshopper and Python scripts
 /assets           → Sample images and mesh inputs
 /README.md        → Project overview
 
