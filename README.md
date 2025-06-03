@@ -2,7 +2,7 @@
 
 **A Mesh Agent System Based on Color Similarity for Image Style Transfer**
 
-**Tech Stack:** Rhino/Grasshopper Python Scripting, Agent-Based Modeling-ABxM.Core library
+**Tech Stack:** Rhino/Grasshopper Python Scripting, Agent-Based Modeling-ABxM.Core library                                                  
 **Teammate:** Joyce Wu  
 
 [Chroma]Morph explores how agent-based modeling can be used to transfer image styles through localized, color-driven interactions within a mesh environment. Inspired by wet-on-wet painting techniques, the system simulates how colors dynamically evolve across a mesh as agents interact with their surroundings.
