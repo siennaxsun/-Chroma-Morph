@@ -37,7 +37,7 @@ This project implements a **similarity-based agent system** where:
 
 ## 🚧 Notes
 
-This project is an early-stage exploration that combines visual computing and agent-based simulation. It aims to simulate painterly style transfer effects by mimicking physical dynamics within digital media.
+This project is an early-stage exploration that combines visual computing and agent-based simulation. It aims to simulate painterly style transfer effects by mimicking physical dynamics within generative art.
 
 ---
 
